@@ -63,6 +63,7 @@ body {
 .movie-card-storyline {
   font-size: 14px;
   text-align: justify;
+  flex:auto;
 }
 
 .rating {
@@ -80,4 +81,12 @@ body {
   display: flex;
   justify-content: flex-end;
   padding: 12px 20px;
+}
+
+.noteMetaCritic {
+  color: #0d1d64;
+  font-size: 16px;
+  font-weight: 500;
+  margin: flex;
+  flex: auto;
 }
